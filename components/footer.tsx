@@ -23,7 +23,7 @@ const Footer = () => {
               objectPosition="center"
             />
           </a>
-          <a href="#">
+          <a href="https://twitter.com/unicornbooost">
             <Image
               src="/images/TwitterX.png"
               alt="X"
