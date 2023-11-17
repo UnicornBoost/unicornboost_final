@@ -123,7 +123,7 @@ const FAQSection = () => {
                 What if I do not like the completed project?
               </AccordionTrigger>
               <AccordionContent>
-                This does not normally happen. But if it does, we refine the solution till it is better. Normally, reviews and suggestions are much required before we build the product. 
+                This does not normally happen. But if it does, we refine the solution till it is better. Normally, design reviews and suggestions are much required before we build the product. 
               </AccordionContent>
             </AccordionItem>
           </Accordion>
@@ -136,7 +136,7 @@ const FAQSection = () => {
             <AccordionItem value="item-1">
               <AccordionTrigger>
                 Why should I choose Unicornboost instead of hiring a full-time
-                software eng.?
+                machine learning engineer.?
               </AccordionTrigger>
               <AccordionContent>
               Hiring a full-time Machine learning engineer costs $160,140 per year. Benefits and vacations excluded. UnicornBoost becomes your software team while
@@ -215,7 +215,7 @@ const FAQSection = () => {
               What if I do not like the completed project?
               </AccordionTrigger>
               <AccordionContent>
-              This does not normally happen. But if it does, we refine the solution till it is better. Normally, reviews and suggestions are much required before we build the product.
+              This does not normally happen. But if it does, we refine the solution till it is better. Normally, workflow reviews and suggestions are much required before and after we build the product.
               </AccordionContent>
             </AccordionItem>
           </Accordion>
