@@ -170,7 +170,7 @@ export default function Home() {
           <div className=" bg-violet-300 p-4 rounded flex md:flex-row flex-col items-center gap-16">
             <div className="space-y-4 md-10 flex-1">
               <div>
-                <p className="md:text-sm text-orange-500"> This is for SDaaD and AIDaaS only. Book a call to learn more om CSaaS </p>
+                <p className="md:text-sm text-orange-500"> This is for SDaaD and AIDaaS only. Book a call to learn more on CSaaS </p>
                 <h4 className="font-bold mb-1 text-sm md:text-base">
                   Choose a plan
                 </h4>
