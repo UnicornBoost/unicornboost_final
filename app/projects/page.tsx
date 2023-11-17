@@ -30,7 +30,7 @@ function Project() {
         <a href="/projects/glovo" className="bg-amber-50 rounded-md p-4 space-y-4">
           <div className="flex items-start">
             <p className="font-medium bg-violet-500 p-2 rounded-md text-sm">
-              Customer Suppport
+              Software Development
             </p>
           </div>
           <div className="flex justify-center items-center">
