@@ -53,7 +53,7 @@ function Project() {
           </div>
           <div className="flex justify-center items-center">
             <Image
-              src="/images/Lernexe.png"
+              src="/images/lernexe.png"
               alt="cienet"
               width={150}
               height={150}
