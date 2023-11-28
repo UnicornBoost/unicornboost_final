@@ -229,7 +229,7 @@ export default function Home() {
             <PricingCard
               title="Boost Basic"
               message="Best for early-stage startups and creators seeking a high-converting MVP or landing page."
-              pricing="2,999"
+              pricing="3,999"
               href="https://buy.stripe.com/4gw6qR74t9G43IsdQQ"
               days="Landing page/Website"
               social="Unlimited design/website requests"
@@ -244,7 +244,7 @@ export default function Home() {
             <PricingCard
               title="Boost Standard"
               message="Ideal for those with a continuous demand for design and development services."
-              pricing="3,999"
+              pricing="4,999"
               href="https://buy.stripe.com/4gw7uV4WlaK892MaEF"
               planInfo="Payment with stripe"
               social="unlimited Design/Development requests"
@@ -341,7 +341,7 @@ export default function Home() {
             <PricingCard
               title="Boost Basic"
               message="Get a customer support specialist with a click"
-              pricing="799"
+              pricing="999"
               href="https://buy.stripe.com/aEUeXncoN5pO4MwbIO"
               planInfo="Cancel anytime"
               days="20 tickets per month"
@@ -353,7 +353,7 @@ export default function Home() {
             <PricingCard
               title="Boost Standard"
               message="Supercharge your support systems with data and product oriented customer support"
-              pricing="1,599"
+              pricing="1,999"
               href="https://buy.stripe.com/fZe16xfAZ19y0wgcMT"
               planInfo="Cancel anytime"
               days="Unlimited tickets per month"
@@ -366,8 +366,8 @@ export default function Home() {
             <PricingCard
               title="Boost Standard"
               message="Elevate your support systems with advanced customer support services"
-              pricing="2,199"
-              href="https://buy.stripe.com/00g4iJewVf0oa6Q9AJ"
+              pricing="2,999"
+              href="https://buy.stripe.com/00gcPf1K9f0o3Is28g"
               planInfo="Cancel anytime"
               days="Unlimited tickets per month"
               social="24/7 live chat, phone, and video call support"
