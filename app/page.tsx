@@ -301,7 +301,7 @@ export default function Home() {
               title="Boost Standard"
               message="Best for early-stage startups and companies seeking to build advanced machine learning systems, softwares and APIs"
               pricing="4,999"
-              href="https://buy.stripe.com/28o5mNgF35pO5QAfZ2"
+              href="https://buy.stripe.com/4gw7uV4WlaK892MaEF"
               days="AI web/mobile/Destop apps"
               social="Predictive models/recommendation systems/chatbots"
               firstoption="ML systems integrations"
