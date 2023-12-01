@@ -9,7 +9,7 @@ const GTM_ID = 'GTM-MTP3GXJ6';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "UnicornBoost -Boost your startup to unicorn",
+  title: "UnicornBoost|Boost your startup to unicorn",
   description: "Say goodbye to unreliable freelancers, legnthy hiring process & expensive agencies.",
 };
 
